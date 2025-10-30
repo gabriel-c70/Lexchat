@@ -1,0 +1,447 @@
+[
+  {
+    "type": "command",
+    "cmd": "draw",
+    "mode": "text",
+    "time": "2025-10-30 16:34:33"
+  },
+  {
+    "type": "command",
+    "cmd": "history",
+    "mode": "text",
+    "time": "2025-10-30 16:36:52"
+  },
+  {
+    "type": "command",
+    "cmd": "help",
+    "mode": "text",
+    "time": "2025-10-30 16:37:06"
+  },
+  {
+    "type": "command",
+    "cmd": "code generation",
+    "mode": "text",
+    "time": "2025-10-30 16:37:30"
+  },
+  {
+    "type": "code",
+    "lang": "html",
+    "kind": "class",
+    "file": "snippet_html_1761831467.html",
+    "time": "2025-10-30 16:37:57"
+  },
+  {
+    "type": "command",
+    "cmd": "history",
+    "mode": "text",
+    "time": "2025-10-30 16:38:15"
+  },
+  {
+    "type": "command",
+    "cmd": "set voice",
+    "mode": "text",
+    "time": "2025-10-30 16:38:37"
+  },
+  {
+    "type": "command",
+    "cmd": "energetic voice mode activate",
+    "mode": "voice",
+    "time": "2025-10-30 16:39:07"
+  },
+  {
+    "type": "command",
+    "cmd": "set voice",
+    "mode": "text",
+    "time": "2025-10-30 16:39:16"
+  },
+  {
+    "type": "command",
+    "cmd": "help",
+    "mode": "text",
+    "time": "2025-10-30 16:53:48"
+  },
+  {
+    "type": "command",
+    "cmd": "time",
+    "mode": "text",
+    "time": "2025-10-30 16:54:05"
+  },
+  {
+    "type": "command",
+    "cmd": "search",
+    "mode": "text",
+    "time": "2025-10-30 16:54:22"
+  },
+  {
+    "type": "search",
+    "query": "Elon Musk",
+    "time": "2025-10-30 16:54:31"
+  },
+  {
+    "type": "command",
+    "cmd": "draw",
+    "mode": "text",
+    "time": "2025-10-30 16:54:51"
+  },
+  {
+    "type": "command",
+    "cmd": "draw",
+    "mode": "text",
+    "time": "2025-10-30 16:56:12"
+  },
+  {
+    "type": "command",
+    "cmd": "draw",
+    "mode": "text",
+    "time": "2025-10-30 16:56:49"
+  },
+  {
+    "type": "command",
+    "cmd": "draw",
+    "mode": "text",
+    "time": "2025-10-30 16:57:17"
+  },
+  {
+    "type": "command",
+    "cmd": "search",
+    "mode": "text",
+    "time": "2025-10-30 17:00:04"
+  },
+  {
+    "type": "search",
+    "query": "elon musk",
+    "time": "2025-10-30 17:00:14"
+  },
+  {
+    "type": "command",
+    "cmd": "draw",
+    "mode": "text",
+    "time": "2025-10-30 17:00:36"
+  },
+  {
+    "type": "command",
+    "cmd": "history",
+    "mode": "text",
+    "time": "2025-10-30 17:03:50"
+  },
+  {
+    "type": "command",
+    "cmd": "hello how are you",
+    "mode": "voice",
+    "time": "2025-10-30 17:04:59"
+  },
+  {
+    "type": "command",
+    "cmd": "history",
+    "mode": "text",
+    "time": "2025-10-30 17:05:23"
+  },
+  {
+    "type": "command",
+    "cmd": "search",
+    "mode": "text",
+    "time": "2025-10-30 17:06:34"
+  },
+  {
+    "type": "search",
+    "query": "elon musk",
+    "time": "2025-10-30 17:06:45"
+  },
+  {
+    "type": "command",
+    "cmd": "serach",
+    "mode": "text",
+    "time": "2025-10-30 17:09:10"
+  },
+  {
+    "type": "command",
+    "cmd": "search",
+    "mode": "text",
+    "time": "2025-10-30 17:09:10"
+  },
+  {
+    "type": "search",
+    "query": "sam altman",
+    "time": "2025-10-30 17:09:17"
+  },
+  {
+    "type": "command",
+    "cmd": "search",
+    "mode": "text",
+    "time": "2025-10-30 17:09:35"
+  },
+  {
+    "type": "search",
+    "query": "prices of gucci dresses",
+    "time": "2025-10-30 17:10:01"
+  },
+  {
+    "type": "command",
+    "cmd": "help",
+    "mode": "text",
+    "time": "2025-10-30 17:11:36"
+  },
+  {
+    "type": "command",
+    "cmd": "search",
+    "mode": "text",
+    "time": "2025-10-30 17:12:00"
+  },
+  {
+    "type": "search",
+    "query": "shopify",
+    "time": "2025-10-30 17:12:14"
+  },
+  {
+    "type": "command",
+    "cmd": "tell me a funny story",
+    "mode": "voice",
+    "time": "2025-10-30 17:13:03"
+  },
+  {
+    "type": "story",
+    "words": [
+      "",
+      "i don't understand that audio that's why",
+      "quit"
+    ],
+    "time": "2025-10-30 17:13:24"
+  },
+  {
+    "type": "command",
+    "cmd": "search",
+    "mode": "text",
+    "time": "2025-10-30 17:14:23"
+  },
+  {
+    "type": "search",
+    "query": "shopify",
+    "time": "2025-10-30 17:14:35"
+  },
+  {
+    "type": "command",
+    "cmd": "help",
+    "mode": "text",
+    "time": "2025-10-30 17:15:57"
+  },
+  {
+    "type": "command",
+    "cmd": "time",
+    "mode": "text",
+    "time": "2025-10-30 17:16:24"
+  },
+  {
+    "type": "command",
+    "cmd": "history",
+    "mode": "text",
+    "time": "2025-10-30 17:16:51"
+  },
+  {
+    "type": "command",
+    "cmd": "help",
+    "mode": "text",
+    "time": "2025-10-30 17:22:55"
+  },
+  {
+    "type": "command",
+    "cmd": "emoji",
+    "mode": "text",
+    "time": "2025-10-30 17:23:10"
+  },
+  {
+    "type": "command",
+    "cmd": "search",
+    "mode": "text",
+    "time": "2025-10-30 17:24:03"
+  },
+  {
+    "type": "search",
+    "query": "elon musk",
+    "time": "2025-10-30 17:24:15"
+  },
+  {
+    "type": "command",
+    "cmd": "game",
+    "mode": "text",
+    "time": "2025-10-30 17:24:22"
+  },
+  {
+    "type": "command",
+    "cmd": "game",
+    "mode": "text",
+    "time": "2025-10-30 17:24:36"
+  },
+  {
+    "type": "command",
+    "cmd": "game",
+    "mode": "text",
+    "time": "2025-10-30 17:24:51"
+  },
+  {
+    "type": "command",
+    "cmd": ".help",
+    "mode": "text",
+    "time": "2025-10-30 17:25:11"
+  },
+  {
+    "type": "command",
+    "cmd": "history",
+    "mode": "text",
+    "time": "2025-10-30 17:25:21"
+  },
+  {
+    "type": "command",
+    "cmd": "last search",
+    "mode": "text",
+    "time": "2025-10-30 17:25:38"
+  },
+  {
+    "type": "search",
+    "query": "g",
+    "time": "2025-10-30 17:25:47"
+  },
+  {
+    "type": "command",
+    "cmd": "set voice",
+    "mode": "text",
+    "time": "2025-10-30 17:26:03"
+  },
+  {
+    "type": "command",
+    "cmd": "lists",
+    "mode": "text",
+    "time": "2025-10-30 17:26:19"
+  },
+  {
+    "type": "command",
+    "cmd": "time",
+    "mode": "text",
+    "time": "2025-10-30 17:26:35"
+  },
+  {
+    "type": "command",
+    "cmd": "ode",
+    "mode": "text",
+    "time": "2025-10-30 17:26:47"
+  },
+  {
+    "type": "command",
+    "cmd": "code",
+    "mode": "text",
+    "time": "2025-10-30 17:26:48"
+  },
+  {
+    "type": "code",
+    "lang": "python",
+    "kind": "class",
+    "file": "snippet_Python_1761834433.js",
+    "time": "2025-10-30 17:27:18"
+  },
+  {
+    "type": "command",
+    "cmd": "joke",
+    "mode": "text",
+    "time": "2025-10-30 17:27:32"
+  },
+  {
+    "type": "command",
+    "cmd": "joke",
+    "mode": "text",
+    "time": "2025-10-30 17:27:50"
+  },
+  {
+    "type": "command",
+    "cmd": "math",
+    "mode": "text",
+    "time": "2025-10-30 17:28:32"
+  },
+  {
+    "type": "command",
+    "cmd": "story",
+    "mode": "text",
+    "time": "2025-10-30 17:29:00"
+  },
+  {
+    "type": "command",
+    "cmd": "fun fact",
+    "mode": "text",
+    "time": "2025-10-30 17:30:30"
+  },
+  {
+    "type": "command",
+    "cmd": "help",
+    "mode": "text",
+    "time": "2025-10-30 17:31:12"
+  },
+  {
+    "type": "command",
+    "cmd": "exit",
+    "mode": "text",
+    "time": "2025-10-30 17:31:47"
+  },
+  {
+    "type": "command",
+    "cmd": "help",
+    "mode": "text",
+    "time": "2025-10-30 17:33:07"
+  },
+  {
+    "type": "command",
+    "cmd": "help",
+    "mode": "text",
+    "time": "2025-10-30 18:20:06"
+  },
+  {
+    "type": "command",
+    "cmd": "help",
+    "mode": "text",
+    "time": "2025-10-30 18:57:30"
+  },
+  {
+    "type": "command",
+    "cmd": "jole",
+    "mode": "text",
+    "time": "2025-10-30 18:57:47"
+  },
+  {
+    "type": "command",
+    "cmd": "joke",
+    "mode": "text",
+    "time": "2025-10-30 18:57:48"
+  },
+  {
+    "type": "command",
+    "cmd": "search the web",
+    "mode": "text",
+    "time": "2025-10-30 18:58:06"
+  },
+  {
+    "type": "command",
+    "cmd": "search the web",
+    "mode": "text",
+    "time": "2025-10-30 18:59:06"
+  },
+  {
+    "type": "search",
+    "query": "Elon Musk",
+    "time": "2025-10-30 18:59:27"
+  },
+  {
+    "type": "command",
+    "cmd": "tell me a joke",
+    "mode": "voice",
+    "time": "2025-10-30 18:59:55"
+  },
+  {
+    "type": "command",
+    "cmd": "help",
+    "mode": "text",
+    "time": "2025-10-30 19:00:21"
+  },
+  {
+    "type": "command",
+    "cmd": "help",
+    "mode": "text",
+    "time": "2025-10-30 21:06:08"
+  }
+]
