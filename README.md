@@ -1,5 +1,5 @@
 # Lexchat 🤖💬
-Welcome to the first ever publicaly announced version of Lexchat this is a beginning of a great journey in AI this begins with a small but fun AI that does sorts of stuff like:
+Welcome to the first ever publicly announced version of Lexchat this is a beginning of a great journey in AI this begins with a small but fun AI that does sorts of stuff like:
 Features:
 - Code small demos in Python, HTML, and JavaScript with explanations
 - Make fun stories
