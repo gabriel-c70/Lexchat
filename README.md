@@ -17,7 +17,7 @@ Lexchat is a lightweight AI that can:
 - 🗣️ Switch between three  *voice modes*
 - To know more you can type in the help command which is like a **user menu** for Lexchat
 
-⚠️ **Note:** This AI is still in its early stages. It’s not trained on any large dataset — it’s fully experimental and built for fun, learning, and testing new ideas.
+⚠️ **Note:** This AI is still in its early stages. It’s not trained on any large dataset — it’s fully experimental and built for fun, learning, and testing new ideas. 
 
 ---
 
