@@ -25,9 +25,9 @@ except Exception as e:
 
 
 VOICE_RECORD_SECONDS = 4
-LAST_SEARCH_FILE = "last_search.json"
-HISTORY_FILE = "lexchat_history.json"
-LOG_FILE = "lexchat.log"
+LAST_SEARCH_FILE = "lexchat_env/last_search.json"
+HISTORY_FILE = "lexchat_env/lexchat_history.json"
+LOG_FILE = "lexchat_env/lexchat.log"
 DEFAULT_VOICE_MODE = "calm"   # calm / balanced / energetic
 
 logging.basicConfig(filename=LOG_FILE, level=logging.INFO,
@@ -198,7 +198,7 @@ def search_web(query, num_results=5):
     respond(ENGINE, f"Searching the web for {query} 🔍")
     results_list = []
     try:
-        with DDGS() as ddgs:
+       with DDGS() as ddgs:
             results = ddgs.text(query)
             count = 0
             for r in results:
